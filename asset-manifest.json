@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portal/static/css/main.28e79656.css",
+    "main.js": "/portal/static/js/main.602c8ae2.js",
+    "static/media/admissions.jpg": "/portal/static/media/admissions.8162d7830e296cb42f32.jpg",
+    "static/media/youtube.svg": "/portal/static/media/youtube.6540f096f15760e77fae65be05358de3.svg",
+    "static/media/facebook.svg": "/portal/static/media/facebook.f6a612bb2d4026e41414bdda3dd9455a.svg",
+    "static/media/checklist.svg": "/portal/static/media/checklist.abf113369b7c0ef59a3438b2ffe25653.svg",
+    "static/media/InstaIcon.svg": "/portal/static/media/InstaIcon.1e7d2cfaa62ddb1976959051d817f11c.svg",
+    "static/media/home.svg": "/portal/static/media/home.6e2bbe4276bee736286da9b7f4d4afdf.svg",
+    "static/media/twitter.svg": "/portal/static/media/twitter.cdd7b131a8e2a6fba33e7b627b20c4ee.svg",
+    "index.html": "/portal/index.html",
+    "static/media/calendar.svg": "/portal/static/media/calendar.11a9c79d96140a06720912698150ba98.svg",
+    "static/media/menu.svg": "/portal/static/media/menu.59c06f924d63d19aae15af8c2b49a41d.svg",
+    "static/media/profile.svg": "/portal/static/media/profile.66161f8fd1d9f2b11b7839f29aa434fd.svg",
+    "static/media/documents.svg": "/portal/static/media/documents.19ba696455a99a63ca2726a5c0b640b7.svg",
+    "static/media/person.svg": "/portal/static/media/person.2a86917c2d120c3e951347ac274b7937.svg",
+    "static/media/alert.svg": "/portal/static/media/alert.93feee635f2fd27f52b8672e1446e3cc.svg",
+    "static/media/upload.svg": "/portal/static/media/upload.73b5fb872eda8996addff088c3810c74.svg",
+    "static/media/empty.svg": "/portal/static/media/empty.4df3a73d50208aba068652b9a3655088.svg",
+    "static/media/mail.svg": "/portal/static/media/mail.5a387e74dbef285fe81a3cd40ea170b5.svg",
+    "main.28e79656.css.map": "/portal/static/css/main.28e79656.css.map",
+    "main.602c8ae2.js.map": "/portal/static/js/main.602c8ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e79656.css",
+    "static/js/main.602c8ae2.js"
+  ]
+}
